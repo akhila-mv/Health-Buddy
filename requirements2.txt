@@ -1,0 +1,3 @@
+python -m venv health_env
+health_env\\Scripts\\activate
+pip install numpy pandas tensorflow pillow streamlit matplotlib plotly google-auth google-auth-oauthlib oauthlib requests
